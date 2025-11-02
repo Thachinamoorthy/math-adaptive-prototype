@@ -12,7 +12,7 @@ The goal of this prototype is to demonstrate an AI-powered system that dynamical
 **Puzzle Generation**: Creates simple math puzzles (addition, subtraction, multiplication).
 **Difficulty Levels**: Supports three levels: Easy, Medium, and Hard.
 **Performance Tracking**: Tracks user correctness and response time for each puzzle.
-**Adaptive Engine**: Uses a simple, rule-based logic to automatically adjust puzzle difficulty up or down based on user performance[cite: 4, 9, 14].
+**Adaptive Engine**: Uses a simple, rule-based logic to automatically adjust puzzle difficulty up or down based on user performance.
 **Session Summary**: Displays a basic performance summary at the end of the session.
 
 ## Project Structure
@@ -20,7 +20,8 @@ README.md
 requirements.txt 
 src/ init.py  main.py puzzle_generator.py  tracker.py  adaptive_engine.py
 
-How to Run
+## How to Run
+
 This is a pure Python console application. No external libraries are required.
 
 1.  Clone the repository.
